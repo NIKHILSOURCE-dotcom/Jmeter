@@ -1,0 +1,16 @@
+hlo guys first to uploaded in the git
+  
+>> git init
+
+>>git add.
+
+>>git status
+
+
+>>git commit -m "first"
+
+
+>> git remote add  origin  reposistory name
+
+
+>> git push -u origin master
